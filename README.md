@@ -97,7 +97,7 @@ The demonstration video showcases:
 
 - Shivam Bhatt
 - Hejunjie Cao
--Shibin Dong
+- Shibin Dong
  
 
 ---
