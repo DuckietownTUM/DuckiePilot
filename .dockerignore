@@ -1,0 +1,14 @@
+# Ignore everything
+**
+
+# Allow files and directories
+!src
+!config
+!resources
+!dependencies-apt.txt
+!requirements
+!scripts
+!fake-opencv-info
+
+# YOUR FILES LISTED BELOW THIS LINE (IMPORTANT: PREPEND !)
+# ----------------------------------------------------------------------------
