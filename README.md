@@ -10,13 +10,13 @@ This project presents a simplified autonomous navigation system for a Duckiebot,
 
 ## Project Report
 
-[Final Report (PDF)](docs/report/Final_Report.pdf)
+[Final Report (PDF)](docs/report/Report.pdf)
 
 ---
 
 ## Presentation Slides
 
-[Final Presentation (PPT)](docs/presentation/Final_Presentation.pptx)
+[Final Presentation (PPT)](docs/presentation/Slides.pptx)
 
 ---
 
